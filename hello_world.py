@@ -1,5 +1,8 @@
 def hello_world():
-    print("aom")
-  
+    print("i")
+def goodbye_world():
+    print("bye")
+
 hello_world()
+goodbye_world()
 
